@@ -1,1 +1,1 @@
-# spdas1
+Builder in Go. The program constructs an email step by step-specifying the sender first, then the recipient, subject, body, priority, and attachments-rather than using a single massive call with all parameters at once. The same construction steps can yield two different results.
